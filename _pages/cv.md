@@ -11,37 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Electrical and Chemical Engineering, Indian Institute of Technology Kanpur, 2017-2022
+* M.S. in Computer Science, New York University University, 2022 - 2024 (Expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Mitacs Globalink Research Internship 
+  * University of Calgary
+  * Duties included: Developing federated learning models for brain tumor segmentation
+  * Supervisor: Dr. Nils Daniel Forkert, Dr. Anup Tuladhar
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Corporate Internship
+  * Samsung Research Institute Bangalore
+  * Duties included: Developing deep learning models for video denoising 
+  * Supervisor: Mr. Nikhil Krishnan
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * C/C++
+  * Java
+  * Bash scripting
+* Softwares
+  * MySQL
+  * MATLAB
+  * Latex
+* Machine Learning Tools
+  * PyTorch
+  * TensorFlow
+  * Scikit-Learn
+  * Keras
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+{% comment %} 
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -57,3 +65,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+{% endcomment %} 

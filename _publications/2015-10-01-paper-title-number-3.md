@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Multi-institutional Travelling Model
+for Tumor Segmentation in MRI Datasets"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /files/Souza2022_Chapter_Multi-institutionalTravellingM.pdf
+excerpt: 'This paper covers a travelling model for federated learning applied for Tumor segmentation datasets'
+date: 2022-07-15
+venue: 'Springer LNCS'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-09002-8_37'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](lakshayt7.github.io/files/Souza2022_Chapter_Multi-institutionalTravellingM.pdf)
