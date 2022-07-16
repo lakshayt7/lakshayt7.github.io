@@ -1,15 +1,12 @@
 ---
 title: "Paper Title Number 2"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: https://link.springer.com/chapter/10.1007/978-3-031-09002-8_35#chapter-info
+excerpt: 'An analysis of federated learning models for the purpose of brain tumor segmentation'
+date: 2022-07-14
+venue: 'Springer LNCS'
+paperurl: 'http://lakshayt7.github.io/files/Tuladhar2022_Chapter_FederatedLearningUsingVariable.pdf'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+An analysis of federated learning models for the purpose of brain tumor segmentation
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://lakshayt7.github.io/files/Tuladhar2022_Chapter_FederatedLearningUsingVariable.pdf)
