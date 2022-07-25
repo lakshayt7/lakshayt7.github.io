@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi. I'm Lakshay Tyagi. A masters student at New York University.
+Hi. I'm Lakshay Tyagi. A masters student at New York University. I am interested in Machine Learning, Natural Language Processing, Computer Vision and Computer Science in general. Previously, I was a Bachelors in Technology student at Indian Institute of Technology Kanpur where I studied a mix of Computer Science, Electrical Engineering and Chemical Engineering. In my free time I like going to the gym, read books and play video games. 
 
 {% comment %} 
 

@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Electrical and Chemical Engineering, Indian Institute of Technology Kanpur, 2017-2022
 * M.S. in Computer Science, New York University University, 2022 - 2024 (Expected)
+* B.Tech. in Electrical and Chemical Engineering, Indian Institute of Technology Kanpur, 2017-2022
+
 
 Work experience
 ======
