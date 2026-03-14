@@ -70,7 +70,7 @@ img {
   align-items: center;
   justify-content: space-between;
   gap: 20px;
-  padding: 8px 0 4px;
+  padding: 4px 0 2px;
   backdrop-filter: blur(16px);
 }
 
@@ -109,8 +109,10 @@ img {
   display: grid;
   grid-template-columns: minmax(0, 1.2fr) minmax(320px, 0.9fr);
   gap: 32px;
-  align-items: center;
+  align-items: start;
   min-height: calc(100vh - 48px);
+  margin-top: -6px;
+  padding-top: 22px;
 }
 
 .eyebrow {
@@ -343,6 +345,10 @@ h3 {
   font-size: clamp(1.2rem, 2vw, 1.6rem);
   line-height: 1.25;
   max-width: 34ch;
+}
+
+#about.section {
+  padding-top: 20px;
 }
 
 #experience .experience-kicker {
